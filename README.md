@@ -1,6 +1,8 @@
 # form_validation_bloc
 
-Form Validation Uisng BLoC
+1. Form Validation Uisng BLoC
+2. Firebase Phone Auth using Cubit
+
 
 ## Getting Started
 
