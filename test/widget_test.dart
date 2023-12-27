@@ -7,13 +7,14 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
+import 'package:form_validation_bloc/Form_Validation_BLoC/Form_Validation_BLoC.dart';
 
 import 'package:form_validation_bloc/main.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
-    await tester.pumpWidget(const MyApp());
+    await tester.pumpWidget(const Form_Validation_BLoC());
 
     // Verify that our counter starts at 0.
     expect(find.text('0'), findsOneWidget);

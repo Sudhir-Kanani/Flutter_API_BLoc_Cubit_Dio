@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16098105187",
+    "project_id": "test---flutter-a056b",
+    "storage_bucket": "test---flutter-a056b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16098105187:android:1a432baec8616b1b8fe556",
+        "android_client_info": {
+          "package_name": "com.example.validationBloc.form_validation_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKUr8WsLTKx1AErjOjybzMfVMt4JoC_Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
