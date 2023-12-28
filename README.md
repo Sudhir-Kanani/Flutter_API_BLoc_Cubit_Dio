@@ -1,8 +1,8 @@
-# form_validation_bloc
+# bloc + Cubit + Dio + API
 
 1. Form Validation Uisng BLoC
 2. Firebase Phone Auth using Cubit
-
+3. Generated Routes Using Cubit
 
 ## Getting Started
 
