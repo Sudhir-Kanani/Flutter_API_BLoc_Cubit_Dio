@@ -1,8 +1,9 @@
-# bloc + Cubit + Dio + API
+# bloc + Cubit + Dio + API + Interceptor
 
 1. Form Validation Uisng BLoC
 2. Firebase Phone Auth using Cubit
 3. Generated Routes Using Cubit
+4. Api Calling Using Cubit + Dio + Interceptor
 
 ## Getting Started
 
